@@ -29,6 +29,7 @@ for (int i = 0; i < array.length; i++) {
 }
 ```
 ### Negative
+```java
 for (int i = 0; i == array.length; i++) {
     // This loop will not execute as intended.
 }
